@@ -25,3 +25,11 @@ go mod tidy
 ```
 go run cmd/main.go
 ```
+
+
+## rodar atraves do Makefile
+```
+make run
+```
+
+- OBS: eu nao sabia que era dificil rodar o comando make no windows então não consegui testar
